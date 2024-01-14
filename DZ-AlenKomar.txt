@@ -1,0 +1,159 @@
+\documentclass{article}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{graphicx}
+\usepackage[croatian]{babel}
+\title{Doma?a zada?a}
+\author{Alen Komar}
+\date{\today}
+\begin{document}
+\maketitle
+\newpage
+
+\section*{Komponente za Ra?unalo}
+
+\subsection*{Procesor (CPU)}
+\begin{itemize}
+  \item  Intel Core i5-13400F  2.50 GHz 
+  \item Baš ta komponenta je korištena jer je dobra cijena, a komponenta kvalitetna
+  \item Cijena: 234.90 eura (https://www.protis.hr/products/details/intel-core-i5-13400f-box-processor/207145)
+  \begin{figure}[h]
+  \centering
+  \includegraphics[width=0.3\textwidth]{CPU.jpg}
+  \caption{CPU}
+  \label{fig:slika}
+\end{figure}
+\end{itemize}
+
+\subsection*{Mati?na plo?a (Motherboard)}
+\begin{itemize}
+  \item AsRock H610M-HDV/M.2
+  \item 6 Phase Power Design
+Supports DDR4 3200MHz
+1 PCIe 4.0 x16, 2 PCIe 3.0 x1
+1 M.2 Key-E for WiFi
+Graphics Output Options: HDMI, DisplayPort, D-Sub
+Realtek ALC887/897 7.1 CH HD Audio Codec
+4 SATA3
+1 Ultra M.2 
+4 USB 3.2 Gen1 
+5 USB 2.0 
+Intel® Gigabit LAN
+\item Mati?na je odbarana radi kompatibilnosti s drugim komponetama
+\item Cijena: 90 eura (https://www.links.hr/hr/maticna-ploca-asrock-h610m-hdv-m-2-lga1700-intel-12-gen-2x-ddr4-matx-050300698)
+  \begin{figure}[h]
+  \centering
+  \includegraphics[width=0.4\textwidth]{Mati?na.jpg}
+  \caption{Mati?na plo?a}
+  \label{fig:slika}
+\end{figure}
+\end{itemize}
+\newpage
+
+\subsection*{Grafi?ka kartica (GPU)}
+\begin{itemize}
+  \item Nvidia GeForce RTX 3060 Ti, 3584, 1.78GHz
+  \item Grafi?ka kartic je odbarana jer je kompatibilna sa ostalim komponentama
+  \item Cijena: 429 eura (https://www.nvidia.com/en-gb/geforce/graphics-cards/30-series/rtx-3060-3060ti/)
+  \begin{figure}[h]
+  \centering
+  \includegraphics[width=0.4\textwidth]{Grafi?ka.jpeg}
+  \caption{Grafi?ka kartica}
+  \label{fig:slika}
+\end{figure}
+\end{itemize}
+
+\subsection*{Radna memorija (RAM)}
+\begin{itemize}
+  \item 12GBx2 GDDR6
+  \item 32GB je prijeko potrebno za normalan rad na ra?unalu zato je i odbrana ta koli?ina
+\end{itemize}
+\newpage
+
+\subsection*{Tvrdi disk}
+\begin{itemize}
+  \item 1 TB SSD
+  \item SSD je odbaran za brži sustavski odziv, 1TB radi vise memorije
+  \item Cijena: 120 eura (https://www.nabava.net/ssd-disk?q=samsung+1tb)
+  \begin{figure}[h]
+  \centering
+  \includegraphics[width=0.4\textwidth]{SSD.jpg}
+  \caption{SSD}
+  \label{fig:slika}
+\end{figure}
+\end{itemize}
+
+\subsection*{Napajanje (Power Supply)}
+\begin{itemize}
+  \item MegaMax 600W v2
+  \item Odabrano radi dovoljne koli?ine snage
+  \item Cijena: 61 euro (https://www.mikronis.hr/Proizvod/napajanje-zalman-600w-psu-txii-series-megamax-80-p-n-zm600-txii/13303)
+  \begin{figure}[h]
+  \centering
+  \includegraphics[width=0.4\textwidth]{Napajanje.jpg}
+  \caption{Napajanje}
+  \label{fig:slika}
+\end{figure}
+\end{itemize}
+\newpage
+
+\subsection*{Ku?ište}
+\begin{itemize}
+  \item MS Fighter V315, Midi tower, kaljeno staklo, bez napajanja, ATX, crno
+  \item Ku?išteje odabrano tako da podržava veli?inu vaše mati?ne plo?e i ima dovoljno prostora za sve komponente
+  \item Cijena: 55 eura (https://www.instar-informatika.hr/kuciste-ms-fighter-v315-midi-tower-kaljeno-staklo-bez-napajanja-at/101137/product/)
+  \begin{figure}[h]
+  \centering
+  \includegraphics[width=0.3\textwidth]{Ku?ište.jpg}
+  \caption{Ku?ište}
+  \label{fig:slika}
+\end{figure}
+\end{itemize}
+
+\subsection*{Operativni sustav (OS)}
+\begin{itemize}
+  \item Windows 10 Pro, Version: 22H2
+  \item  Odabran taj operativni sustav jer je meni najlakse raditi na njemu i navikao sam se, nema odre?enog razloga
+  \item Cijena: 55 eura (https://www.licencedeals.com/collections/windows-10 gad\_source=1\&gclid=EAIaIQobChMInPm1tJfdgwMVLjgGAB3YZQOGEAAYASAAEgKJ\_fD\_BwE\&logged\_in\_customer\_id=\&lang=hr)
+  \begin{figure}[h]
+  \centering
+  \includegraphics[width=0.3\textwidth]{OS.png}
+  \caption{Operativni sustav}
+  \label{fig:slika}
+\end{figure}
+\end{itemize}
+\newpage
+\subsection*{Dodatna oprema}
+\begin{itemize}
+  \item Monitor 23.8" AOC 24G2SPU, FHD, IPS, 165Hz, 1ms, 300cd/m2, 1000:1, zvu?nici, crni
+  \item Cijena: 120 eura (https://www.links.hr/hr/monitor-23-8-aoc-24g2spu-fhd-ips-165hz-1ms-300cd-m2-1000-1-zvucnici-crni-010601045)
+   \begin{figure}[h]
+  \centering
+  \includegraphics[width=0.4\textwidth]{Monitor.jpg}
+  \caption{Monitor}
+  \label{fig:slika}
+\end{figure}
+  \item Gaming tipkovnica White Shark GK-2201 Ronin bijela
+  \item Cijena: 21.90 eura (https://vacom.hr/proizvod/gaming-tipkovnica-white-shark-gk-2201-ronin-bijela/)
+   \begin{figure}[h]
+  \centering
+  \includegraphics[width=0.4\textwidth]{Tipkovnica.jpg}
+  \caption{Tipkovnica}
+  \label{fig:slika}
+\end{figure}
+\newpage
+  \item  Gaming miš UVI GEAR Lust Bijeli
+  \item  Cijena: 56,90 eura (https://vacom.hr/proizvod/mis-zicani-uvi-gear-lust-bijeli/)
+   \begin{figure}[h]
+  \centering
+  \includegraphics[width=0.3\textwidth]{Miš.png}
+  \caption{Miš}
+  \label{fig:slika}
+\end{figure}
+\end{itemize}
+\subsection{Zaklju?ak}
+\begin{itemize}
+\item Sastavljeno ra?unalo služi u svrhu kvaleitetnog gaming, laganog rada i korištenja programskih jezika(programiranje)
+\item Cijena ra?unala: 1.238,07 eura
+\end{itemize}
+\end{document}
